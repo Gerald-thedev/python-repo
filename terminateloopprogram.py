@@ -15,4 +15,5 @@ if terminate == 'quit':
 elif sure == 'yes':
     sys.exit
 print('You have quit the program, all files and data will be lost.')
+print('...')
 print('Goodbye!')
